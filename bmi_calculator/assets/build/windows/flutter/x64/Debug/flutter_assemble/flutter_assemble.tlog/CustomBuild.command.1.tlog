@@ -1,0 +1,28 @@
+^C:\USERS\WE\DESKTOP\FLUTTER\BMI_CALCULATOR\BUILD\WINDOWS\CMAKEFILES\BF67843B071B7EFE1E94E5FF6B90785F\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=D:\FCI\APPS\flutter PROJECT_DIR=C:\Users\we\Desktop\Flutter\bmi_calculator FLUTTER_ROOT=D:\FCI\APPS\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\we\Desktop\Flutter\bmi_calculator\windows\flutter\ephemeral PROJECT_DIR=C:\Users\we\Desktop\Flutter\bmi_calculator FLUTTER_TARGET=C:\Users\we\Desktop\Flutter\bmi_calculator\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\we\Desktop\Flutter\bmi_calculator\.dart_tool\package_config.json D:/FCI/APPS/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\WE\DESKTOP\FLUTTER\BMI_CALCULATOR\BUILD\WINDOWS\CMAKEFILES\ED23E967620D7180E09982340E2D263C\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\WE\DESKTOP\FLUTTER\BMI_CALCULATOR\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/we/Desktop/Flutter/bmi_calculator/windows -BC:/Users/we/Desktop/Flutter/bmi_calculator/build/windows --check-stamp-file C:/Users/we/Desktop/Flutter/bmi_calculator/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

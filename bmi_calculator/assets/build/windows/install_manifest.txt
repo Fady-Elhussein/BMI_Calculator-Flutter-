@@ -1,0 +1,10 @@
+C:/Users/we/Desktop/Flutter/bmi_calculator/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/we/Desktop/Flutter/bmi_calculator/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/we/Desktop/Flutter/bmi_calculator/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/we/Desktop/Flutter/bmi_calculator/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/we/Desktop/Flutter/bmi_calculator/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/we/Desktop/Flutter/bmi_calculator/build/windows/runner/Debug/data/flutter_assets/images/Female.png
+C:/Users/we/Desktop/Flutter/bmi_calculator/build/windows/runner/Debug/data/flutter_assets/images/Male.png
+C:/Users/we/Desktop/Flutter/bmi_calculator/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/we/Desktop/Flutter/bmi_calculator/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/we/Desktop/Flutter/bmi_calculator/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

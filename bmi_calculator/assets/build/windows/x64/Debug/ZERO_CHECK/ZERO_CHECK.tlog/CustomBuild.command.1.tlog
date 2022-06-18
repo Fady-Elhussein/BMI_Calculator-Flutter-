@@ -1,0 +1,10 @@
+^C:\USERS\WE\DESKTOP\FLUTTER\BMI_CALCULATOR\BUILD\WINDOWS\CMAKEFILES\9B16297078EE1B960AC20390D188F6CB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/we/Desktop/Flutter/bmi_calculator/windows -BC:/Users/we/Desktop/Flutter/bmi_calculator/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/we/Desktop/Flutter/bmi_calculator/build/windows/bmi_calculator.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
